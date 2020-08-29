@@ -1,0 +1,9 @@
+.bordercss {
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    border-color: black;
+    border-width: 20px;
+    border-style: dashed;
+    border-radius: 10px;
+}
