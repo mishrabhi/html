@@ -3,3 +3,12 @@
     height: 100%;
     background-color: red;
 }
+
+/* If you want a background image then-
+.backImg {
+    background-image : url(filename);
+    background-repeat:repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+
+} */
