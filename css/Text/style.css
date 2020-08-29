@@ -1,0 +1,9 @@
+#textcss {
+    color: green;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    direction: ltr;
+    text-align: center;
+    text-indent: 60px;
+    text-transform: uppercase;
+}
