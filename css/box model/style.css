@@ -1,0 +1,9 @@
+.boxmodel {
+    width: 400px;
+    height: 250px;
+    background-color: red;
+}
+input {
+    padding: 10px;
+    margin: 10px;
+}
